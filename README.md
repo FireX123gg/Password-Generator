@@ -1,1 +1,1 @@
-This app generates safe passwords. You can configure everything for example Uppercase and more! Its made in Python using tkinter module.
+This app generates safe passwords. You can configure everything for example Uppercase and more! Its made in Python using tkinter module. I recommend to convert it to .exe using auto-py-to-exe Python module. I cannot upload .exe of it, because its more than 25MB
